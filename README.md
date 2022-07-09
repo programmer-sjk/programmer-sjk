@@ -1,1 +1,3 @@
 [![programmer-sjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-sjk&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=black"/><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black"/><img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=NestJS&logoColor=black"/><img src="https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
